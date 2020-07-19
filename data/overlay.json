@@ -135,7 +135,7 @@
     "zone": [
       {
         "zoneName": "The Dried Lake",
-        "zoneSeed": ["Dried Lake_Seed_1","Dried Lake_Seed_2","Dried Lake_Seed_3","Dried Lake_Seed_4"]
+        "zoneSeed": ["Dried Lake_Seed_1","Dried Lake_Seed_2","Dried Lake_Seed_3"]
       },
       {
         "zoneName": "The Mines 1",
